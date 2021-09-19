@@ -17,7 +17,7 @@
 ## How to run it:
 
 ### 1) Clone the repo => git clone https://github.com/MoazAdel94/timVroomPractice.git
-### 2) Navigate to the cloned foler cd timVroomPractice
+### 2) Navigate to the cloned folder **cd timVroomPractice**
 ### 3) Type command "npm init" at the terminal to download the dependencies required to start the tests
 ### 4) Type command "npm run cypress:open" to start the Cypress runner
 ### 5) From Cypress runner, Click on "testing_tasks.spec.js" to start the tests
